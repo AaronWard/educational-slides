@@ -2,6 +2,7 @@
 A repo for educational presentations and papers i have written
 and saved from courses.
 
+<hr>
 
 ## <u>Table of Contents</u>
 
@@ -30,5 +31,41 @@ and saved from courses.
     - [NLTK](https://github.com/AaronWard/educational-slides/tree/master/other-resources/Python/NLTK)
     - [Principles of ML with Python](https://github.com/AaronWard/educational-slides/tree/master/other-resources/Python/Principles-of-ML-with-Python)
 
+<hr>
 
+### <u>Useful Links</u>
+
+#### Python
+
+- **Packaging**
+    - [Setuptools for Python Packaging](https://setuptools.readthedocs.io/en/latest/setuptools.html#developer-s-guide)
+
+- **Testing**
+    - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
+
+
+
+#### Machine Learning General
+
+- **Model Ops**
+    - [What is Model Ops and Governance?](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
+    - [Choosing the right Model](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+    - [Explainability and Interpretability of Models](https://github.com/jphall663/awesome-machine-learning-interpretability)
+    - [ELI5 vs LIME ](https://www.kdnuggets.com/2019/09/python-libraries-interpretable-machine-learning.html)
+
+- **Data Preprocessing**
+    - [One Hot Encoding in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
+
+
+#### Machine Learning Concepts
+
+- **Facial Recognition**
+    - [Face Detection for Beginners](https://towardsdatascience.com/face-detection-for-beginners-e58e8f21aad9)
+    - [Implementing Viola Jones](https://medium.com/datadriveninvestor/understanding-and-implementing-the-viola-jones-image-classification-algorithm-85621f7fe20b)
+    - [Face and Eye Detection ](https://www.youtube.com/watch?v=jAsmNJwZg_c)
+    - [Viola Jones Explained](https://towardsdatascience.com/face-off-high-speed-facial-tracking-using-the-viola-jones-method-f9e0ba491c9f)
+    - [Haar Features vs CNN](https://towardsdatascience.com/whats-the-difference-between-haar-feature-classifiers-and-convolutional-neural-networks-ce6828343aeb)
+
+- **PU Learning (Weak Supervision)**
+    - [Positive-unlabeled learning](https://roywrightme.wordpress.com/2017/11/16/positive-unlabeled-learning/)
 

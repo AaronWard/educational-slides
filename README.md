@@ -4,8 +4,12 @@ and saved from courses.
 
 
 ## <u>Table of Contents</u>
-- [PU Learning](https://github.com/AaronWard/educational-slides/tree/master/PU-Learning)
-- [Viola Jones Facial Detections](https://github.com/AaronWard/educational-slides/tree/master/Viola-Jones-Facial-Detection)
+
+- [My Papers](https://github.com/AaronWard/educational-slides/tree/master/My%20Papers)
+    
+    - [PU Learning](https://github.com/AaronWard/educational-slides/tree/master/My%20Papers/PU-Learning)
+    - [Viola Jones Facial Detections](https://github.com/AaronWard/educational-slides/tree/master/My%20Papers/Viola-Jones-Facial-Detection)
+    - [Facial Sentiment Analysis](https://github.com/AaronWard/educational-slides/tree/master/My%20Papers/Facial%20Sentiment%20Analysis)
 
 
 #### Other Resources

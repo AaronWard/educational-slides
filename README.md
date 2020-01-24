@@ -16,20 +16,21 @@ and saved from courses.
 #### Other Resources
 
 - [Machine Learning](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML)
- 
+
+    - [Data Visualization Software](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/Data%20Visualization%20Tools)
     - [Deep Learning](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/Deep%20Learning)
     - [General AI](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/General%20AI)
-    - [NLP](https://www.google.com)
+    - [NLP](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/NLP)
+    - [Principles of ML with Python](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/Principles-of-ML-with-Python)
     - [Reinforcement Learning](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/Reinforcement%20Learning)
     - [Supervised Learning](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/Supervised%20Learning)
-    - [Text Analysis](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/Text%20Analysis)
     - [Unsupervised Learning](https://github.com/AaronWard/educational-slides/tree/master/other-resources/ML/Unsupervised%20Learning)
 
 
 - [Python](https://github.com/AaronWard/educational-slides/tree/master/other-resources/Python)
 
-    - [NLTK](https://github.com/AaronWard/educational-slides/tree/master/other-resources/Python/NLTK)
-    - [Principles of ML with Python](https://github.com/AaronWard/educational-slides/tree/master/other-resources/Python/Principles-of-ML-with-Python)
+    - [General](https://github.com/AaronWard/educational-slides/tree/master/other-resources/Python/General)
+    - [Hadoop](https://github.com/AaronWard/educational-slides/tree/master/other-resources/Python/Hadoop)
 
 <hr>
 
@@ -42,7 +43,6 @@ and saved from courses.
 
 - **Testing**
     - [Getting Started With Testing in Python](https://realpython.com/python-testing/)
-
 
 
 #### Machine Learning General
@@ -68,4 +68,3 @@ and saved from courses.
 
 - **PU Learning (Weak Supervision)**
     - [Positive-unlabeled learning](https://roywrightme.wordpress.com/2017/11/16/positive-unlabeled-learning/)
-
